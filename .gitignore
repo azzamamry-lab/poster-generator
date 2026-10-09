@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# hasil sementara / non-final
+hasil/*_tmp.png
+hasil/*_preview.png
