@@ -5,6 +5,8 @@ Cocok untuk poster Jumat Berkah, sedekah, dan program kebaikan lainnya.
 
 Semua teks, warna, dan rekening **bisa diubah** tanpa bikin ulang desain.
 
+![Contoh Poster](hasil/poster_jumat_berkah_story.jpg)
+
 ---
 
 ## 🚀 Cara Pakai
